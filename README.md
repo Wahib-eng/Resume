@@ -37,23 +37,5 @@ Modern dark UI portfolio with:
 - CSS Animations
 - Intersection Observer API
 
----
 
-# 📂 Project Structure
 
-```bash
-portfolio/
-│
-├── index.html
-├── README.md
-├── assets/
-│   ├── images/
-│   │   └── profile.jpg
-│   └── cv/
-│       └── Wahib_Moqbel_CV.pdf
-│
-├── css/
-│   └── style.css
-│
-└── js/
-    └── script.js
