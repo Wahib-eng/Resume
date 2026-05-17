@@ -3,9 +3,7 @@
 A modern, responsive, animated personal portfolio website built with pure HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
-
-- GitHub Pages ](https://wahib-eng.github.io/Resume/)
-
+https://wahib-eng.github.io/Resume/
 # 📸 Preview
 
 Modern dark UI portfolio with:
