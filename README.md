@@ -4,9 +4,7 @@ A modern, responsive, animated personal portfolio website built with pure HTML, 
 
 ## 🌐 Live Demo
 
-After deployment, your website will be available on:
-
-- GitHub Pages
+- GitHub Pages ](https://wahib-eng.github.io/Resume/)
 
 # 📸 Preview
 
