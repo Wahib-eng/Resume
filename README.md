@@ -7,11 +7,6 @@ A modern, responsive, animated personal portfolio website built with pure HTML, 
 After deployment, your website will be available on:
 
 - GitHub Pages
-- Render
-- Netlify
-- InfinityFree
-
----
 
 # 📸 Preview
 
